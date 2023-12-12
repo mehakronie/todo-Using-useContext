@@ -1,0 +1,28 @@
+body {
+  background-color: #a28099;
+  display: flex;
+  justify-content: center;
+}
+
+input {
+  background-color: aliceblue;
+  padding: 10px;
+  border: #6100ff solid 1px;
+  border-radius: 10px;
+}
+
+input .check {
+  text-decoration: line-through;
+}
+
+button {
+  background-color: rgb(38, 88, 90);
+  color: white;
+  border-radius: 10px;
+  margin: 5px;
+  padding: 8px;
+}
+
+li {
+  list-style-type: none;
+}
